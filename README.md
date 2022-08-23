@@ -1,3 +1,9 @@
 # Basic-Breakout-game
 
-This is a Breakout game written in JAVA using OOP principles
+This is a simple Breakout game  
+  - JAVA 
+  - OOP principles 
+  - GUI interface.
+  - 2D Graphic
+
+Enjoy the code! :)
