@@ -6,4 +6,4 @@ This is a simple Breakout game
   - GUI interface.
   - 2D Graphic
 
-Enjoy the code! :)
+Enjoy the code, enjoy the game! :)
